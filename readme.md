@@ -14,25 +14,6 @@ El proyecto busca responder:
 - ¿Qué variables explican mejor las diferencias en los ingresos?
 - ¿Podemos predecir el nivel salarial o el género de una persona en función de las variables disponibles?
 
-## 📁 Estructura del repositorio
-
-```
-DATA-SCIENCE-YPF-TRABAJO-FINAL-/
-│
-├── DATA/                      # Dataset original y derivados
-│
-├── NOTEBOOKS/                 # Análisis exploratorio y notebooks del modelo
-│   ├── exploracion_datos.ipynb
-│   ├── genero_clasificacion.ipynb
-│   └── remuneracion_regresion.ipynb
-│
-├── IMGS/                      # Gráficos y visualizaciones generadas
-│
-├── PRESENTACION/              # Archivos de presentación final (.pptx y .pdf)
-│
-└── README.md                  # Este archivo
-```
-
 ## 🧪 Tecnologías utilizadas
 
 - Python (Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn)
@@ -64,10 +45,5 @@ El enfoque del proyecto es **crítico y no determinista**. Los modelos no buscan
 
 ## 👥 Autoras
 
-- [Daniela Ferraro](https://github.com/Dferraro25) — Profesora e investigadora en Ciencias Sociales, formación en Data Science.
-- [Jorgelina Sigal](https://github.com/jorgelinasigal) — Socióloga y becaria de investigación, especialización en estadísticas laborales.
-
-## 📄 Licencia
-
-Este proyecto se encuentra bajo la Licencia MIT.
-
+- [Daniela Ferraro](https://github.com/Dferraro25) — 
+- [Jorgelina Sigal](https://github.com/jorgelinasigal) — 
